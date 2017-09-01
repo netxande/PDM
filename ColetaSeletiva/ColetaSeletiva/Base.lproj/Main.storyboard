@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11542" systemVersion="16G29" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="O9r-yJ-nVf">
+    <device id="retina4_0" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11524"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Coleta Seletiva-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="ColetaSeletiva" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mxL-Vv-k83">
+                                <rect key="frame" x="200" y="96" width="60" height="70"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <gestureRecognizers/>
+                                <state key="normal" image="Vermelho"/>
+                                <connections>
+                                    <action selector="vermelho:" destination="BYZ-38-t0r" eventType="touchUpInside" id="p7C-aV-iJR"/>
+                                    <outletCollection property="gestureRecognizers" destination="17o-n4-4n5" appends="YES" id="GmS-i4-cB0"/>
+                                    <segue destination="3tL-QP-uMh" kind="show" identifier="segue_vermelho" id="vZL-W1-I18"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ZJH-f0-2uZ">
+                                <rect key="frame" x="63" y="194" width="60" height="70"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <gestureRecognizers/>
+                                <state key="normal" image="Verde"/>
+                                <connections>
+                                    <action selector="verde:" destination="BYZ-38-t0r" eventType="touchUpInside" id="vVd-0I-8JP"/>
+                                    <outletCollection property="gestureRecognizers" destination="ToZ-IM-CDI" appends="YES" id="Y3b-b3-Q3g"/>
+                                    <segue destination="3tL-QP-uMh" kind="show" identifier="segue_verde" id="5cK-JO-czn"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hwv-5w-zYX">
+                                <rect key="frame" x="200" y="194" width="60" height="70"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <gestureRecognizers/>
+                                <state key="normal" title="Button" image="Amarelo"/>
+                                <connections>
+                                    <action selector="amarelo:" destination="BYZ-38-t0r" eventType="touchUpInside" id="UIj-9d-gdE"/>
+                                    <outletCollection property="gestureRecognizers" destination="zmy-HD-5y8" appends="YES" id="sCH-Ww-qLX"/>
+                                    <segue destination="3tL-QP-uMh" kind="show" identifier="segue_amarelo" id="AkL-b6-kkN"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="HXA-1j-0Wh">
+                                <rect key="frame" x="63" y="289" width="60" height="70"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <gestureRecognizers/>
+                                <state key="normal" image="Preto"/>
+                                <connections>
+                                    <action selector="preto:" destination="BYZ-38-t0r" eventType="touchUpInside" id="9R6-bQ-aM2"/>
+                                    <outletCollection property="gestureRecognizers" destination="1Vk-mC-mUG" appends="YES" id="nlj-Og-Tee"/>
+                                    <segue destination="3tL-QP-uMh" kind="show" identifier="segue_preto" id="cA4-33-Ien"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pcP-bD-fi7">
+                                <rect key="frame" x="200" y="289" width="60" height="70"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <gestureRecognizers/>
+                                <state key="normal" image="Laranja"/>
+                                <connections>
+                                    <action selector="laranja:" destination="BYZ-38-t0r" eventType="touchUpInside" id="cTc-Zt-EQq"/>
+                                    <outletCollection property="gestureRecognizers" destination="RAn-gk-W4f" appends="YES" id="eEX-tM-X7T"/>
+                                    <segue destination="3tL-QP-uMh" kind="show" identifier="segue_laranja" id="ci2-wJ-hcc"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EHq-eH-EBd">
+                                <rect key="frame" x="200" y="478" width="60" height="70"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <gestureRecognizers/>
+                                <state key="normal" image="Cinza"/>
+                                <connections>
+                                    <action selector="cinza:" destination="BYZ-38-t0r" eventType="touchUpInside" id="bDS-1O-YL4"/>
+                                    <outletCollection property="gestureRecognizers" destination="iwf-GM-AAM" appends="YES" id="CPX-Yg-DJ1"/>
+                                    <segue destination="3tL-QP-uMh" kind="show" identifier="segue_cinza" id="ydU-pN-zb5"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ZVZ-jh-7Zg">
+                                <rect key="frame" x="63" y="382" width="60" height="70"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <gestureRecognizers/>
+                                <state key="normal" image="Branco"/>
+                                <connections>
+                                    <action selector="branco:" destination="BYZ-38-t0r" eventType="touchUpInside" id="d3r-ds-dYD"/>
+                                    <outletCollection property="gestureRecognizers" destination="Hbx-lb-Fyu" appends="YES" id="ExK-9v-iw9"/>
+                                    <segue destination="3tL-QP-uMh" kind="show" identifier="segue_branco" id="3gE-FY-8Nx"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ilH-kl-5dN">
+                                <rect key="frame" x="200" y="382" width="60" height="70"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <gestureRecognizers/>
+                                <state key="normal" image="Violeta"/>
+                                <connections>
+                                    <action selector="lilas:" destination="BYZ-38-t0r" eventType="touchUpInside" id="6LN-Zg-wVp"/>
+                                    <outletCollection property="gestureRecognizers" destination="JvD-Kh-f9R" appends="YES" id="YRi-YA-ec2"/>
+                                    <segue destination="3tL-QP-uMh" kind="show" identifier="segue_lilas" id="SU3-fI-ZvK"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ffI-Hc-uje">
+                                <rect key="frame" x="63" y="478" width="60" height="70"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <gestureRecognizers/>
+                                <state key="normal" image="Marrom"/>
+                                <connections>
+                                    <action selector="marrom:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Itx-Un-QEq"/>
+                                    <outletCollection property="gestureRecognizers" destination="knV-pa-Lld" appends="YES" id="mW6-8O-dor"/>
+                                    <segue destination="3tL-QP-uMh" kind="show" identifier="segue_marrom" id="AFa-XB-6jP"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="30Y-mS-xKt">
+                                <rect key="frame" x="63" y="96" width="60" height="70"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <gestureRecognizers/>
+                                <state key="normal" image="Azul">
+                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="azul:" destination="BYZ-38-t0r" eventType="touchUpInside" id="zHo-R2-ycL"/>
+                                    <outletCollection property="gestureRecognizers" destination="clY-7X-lCs" appends="YES" id="VD7-fm-8wo"/>
+                                    <segue destination="3tL-QP-uMh" kind="show" identifier="segue_azul" id="E2a-Ft-weG"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" title="Coleta Seletiva" id="YPn-Cx-fZv"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+                <pongPressGestureRecognizer allowableMovement="10" minimumPressDuration="0.5" id="clY-7X-lCs">
+                    <connections>
+                        <action selector="longAzul:" destination="BYZ-38-t0r" id="WFx-MG-DuK"/>
+                    </connections>
+                </pongPressGestureRecognizer>
+                <pongPressGestureRecognizer allowableMovement="10" minimumPressDuration="0.5" id="17o-n4-4n5">
+                    <connections>
+                        <action selector="longVermelho:" destination="BYZ-38-t0r" id="XLD-Cv-5gX"/>
+                    </connections>
+                </pongPressGestureRecognizer>
+                <pongPressGestureRecognizer allowableMovement="10" minimumPressDuration="0.5" id="ToZ-IM-CDI">
+                    <connections>
+                        <action selector="longVerde:" destination="BYZ-38-t0r" id="sIW-Lk-HFC"/>
+                    </connections>
+                </pongPressGestureRecognizer>
+                <pongPressGestureRecognizer allowableMovement="10" minimumPressDuration="0.5" id="zmy-HD-5y8">
+                    <connections>
+                        <action selector="longAmarelo:" destination="BYZ-38-t0r" id="oHk-tP-fYV"/>
+                    </connections>
+                </pongPressGestureRecognizer>
+                <pongPressGestureRecognizer allowableMovement="10" minimumPressDuration="0.5" id="1Vk-mC-mUG">
+                    <connections>
+                        <action selector="longPreto:" destination="BYZ-38-t0r" id="jPR-gn-CpE"/>
+                    </connections>
+                </pongPressGestureRecognizer>
+                <pongPressGestureRecognizer allowableMovement="10" minimumPressDuration="0.5" id="RAn-gk-W4f">
+                    <connections>
+                        <action selector="longLaranja:" destination="BYZ-38-t0r" id="4gu-SI-Jj1"/>
+                    </connections>
+                </pongPressGestureRecognizer>
+                <pongPressGestureRecognizer allowableMovement="10" minimumPressDuration="0.5" id="Hbx-lb-Fyu">
+                    <connections>
+                        <action selector="longBranco:" destination="BYZ-38-t0r" id="WdT-wc-U4u"/>
+                    </connections>
+                </pongPressGestureRecognizer>
+                <pongPressGestureRecognizer allowableMovement="10" minimumPressDuration="0.5" id="JvD-Kh-f9R">
+                    <connections>
+                        <action selector="longRoxo:" destination="BYZ-38-t0r" id="YeD-1X-CW1"/>
+                    </connections>
+                </pongPressGestureRecognizer>
+                <pongPressGestureRecognizer allowableMovement="10" minimumPressDuration="0.5" id="knV-pa-Lld">
+                    <connections>
+                        <action selector="longMarrom:" destination="BYZ-38-t0r" id="UUr-Wg-txT"/>
+                    </connections>
+                </pongPressGestureRecognizer>
+                <pongPressGestureRecognizer allowableMovement="10" minimumPressDuration="0.5" id="iwf-GM-AAM">
+                    <connections>
+                        <action selector="longCinza:" destination="BYZ-38-t0r" id="HE6-Mc-7xx"/>
+                    </connections>
+                </pongPressGestureRecognizer>
+            </objects>
+            <point key="canvasLocation" x="816" y="296"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="ZhL-sQ-71t">
+            <objects>
+                <viewController id="dQm-RF-AFq" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="yYw-UA-fAP"/>
+                        <viewControllerLayoutGuide type="bottom" id="qg6-ba-sFB"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="bC5-CJ-qlb">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="lh5-OT-dlj" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="3069" y="1154"/>
+        </scene>
+        <!--Lista View Controller-->
+        <scene sceneID="e2b-iN-lj5">
+            <objects>
+                <tableViewController id="3tL-QP-uMh" customClass="ListaViewController" customModule="ColetaSeletiva" customModuleProvider="target" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" id="VgH-1A-LD3">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <prototypes>
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="celula" id="9bt-7S-5w1">
+                                <rect key="frame" x="0.0" y="28" width="320" height="44"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="9bt-7S-5w1" id="um1-f4-Xlp">
+                                    <rect key="frame" x="0.0" y="0.0" width="320" height="43"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                </tableViewCellContentView>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="3tL-QP-uMh" id="DCP-mh-jYi"/>
+                            <outlet property="delegate" destination="3tL-QP-uMh" id="LMA-bX-RKD"/>
+                        </connections>
+                    </tableView>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="oxv-1v-Mv3" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1802" y="296"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="ePG-bq-cTs">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="O9r-yJ-nVf" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="uhc-UA-7w5">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="94A-1p-1Tx"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="C2d-yA-4Nb" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-291" y="378"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Amarelo" width="161" height="212"/>
+        <image name="Azul" width="161" height="212"/>
+        <image name="Branco" width="161" height="212"/>
+        <image name="Cinza" width="161" height="212"/>
+        <image name="Laranja" width="161" height="212"/>
+        <image name="Marrom" width="161" height="212"/>
+        <image name="Preto" width="161" height="212"/>
+        <image name="Verde" width="161" height="212"/>
+        <image name="Vermelho" width="161" height="212"/>
+        <image name="Violeta" width="161" height="212"/>
+    </resources>
+    <inferredMetricsTieBreakers>
+        <segue reference="ci2-wJ-hcc"/>
+    </inferredMetricsTieBreakers>
+</document>

@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\AndroidStudioProjects\\ColetaSeletiva2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\.android\\build-cache\\aadc6e9eb0c9706a325bb9a85c25340eebae0802\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\AndroidStudioProjects\\ColetaSeletiva2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\.android\\build-cache\\aadc6e9eb0c9706a325bb9a85c25340eebae0802\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\AndroidStudioProjects\\ColetaSeletiva2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\.android\\build-cache\\aadc6e9eb0c9706a325bb9a85c25340eebae0802\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\AndroidStudioProjects\\ColetaSeletiva2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\.android\\build-cache\\aadc6e9eb0c9706a325bb9a85c25340eebae0802\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\AndroidStudioProjects\\ColetaSeletiva2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\.android\\build-cache\\aadc6e9eb0c9706a325bb9a85c25340eebae0802\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/admin/.android/build-cache/b10e99c4de5ec7586233ef0c2e840ea9fc869972/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\AndroidStudioProjects\\ColetaSeletiva2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\.android\\build-cache\\aadc6e9eb0c9706a325bb9a85c25340eebae0802\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\AndroidStudioProjects\\ColetaSeletiva2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\.android\\build-cache\\aadc6e9eb0c9706a325bb9a85c25340eebae0802\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/admin/.android/build-cache/b10e99c4de5ec7586233ef0c2e840ea9fc869972/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\AndroidStudioProjects\\ColetaSeletiva2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\.android\\build-cache\\aadc6e9eb0c9706a325bb9a85c25340eebae0802\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\AndroidStudioProjects\\ColetaSeletiva2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\.android\\build-cache\\aadc6e9eb0c9706a325bb9a85c25340eebae0802\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/admin/.android/build-cache/b10e99c4de5ec7586233ef0c2e840ea9fc869972/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/admin/.android/build-cache/b10e99c4de5ec7586233ef0c2e840ea9fc869972/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/admin/.android/build-cache/b10e99c4de5ec7586233ef0c2e840ea9fc869972/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/admin/.android/build-cache/b10e99c4de5ec7586233ef0c2e840ea9fc869972/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/admin/.android/build-cache/b10e99c4de5ec7586233ef0c2e840ea9fc869972/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/admin/.android/build-cache/b10e99c4de5ec7586233ef0c2e840ea9fc869972/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/admin/.android/build-cache/b10e99c4de5ec7586233ef0c2e840ea9fc869972/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\AndroidStudioProjects\\ColetaSeletiva2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\.android\\build-cache\\aadc6e9eb0c9706a325bb9a85c25340eebae0802\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/admin/.android/build-cache/b10e99c4de5ec7586233ef0c2e840ea9fc869972/output/res/anim/abc_popup_enter.xml"
+    }
+]

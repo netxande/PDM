@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/admin/.android/build-cache/b10e99c4de5ec7586233ef0c2e840ea9fc869972/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/admin/.android/build-cache/b10e99c4de5ec7586233ef0c2e840ea9fc869972/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\AndroidStudioProjects\\ColetaSeletiva2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\.android\\build-cache\\aadc6e9eb0c9706a325bb9a85c25340eebae0802\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\AndroidStudioProjects\\ColetaSeletiva2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\.android\\build-cache\\aadc6e9eb0c9706a325bb9a85c25340eebae0802\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/admin/.android/build-cache/b10e99c4de5ec7586233ef0c2e840ea9fc869972/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\AndroidStudioProjects\\ColetaSeletiva2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\.android\\build-cache\\aadc6e9eb0c9706a325bb9a85c25340eebae0802\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/admin/.android/build-cache/b10e99c4de5ec7586233ef0c2e840ea9fc869972/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\AndroidStudioProjects\\ColetaSeletiva2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\.android\\build-cache\\aadc6e9eb0c9706a325bb9a85c25340eebae0802\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/admin/.android/build-cache/b10e99c4de5ec7586233ef0c2e840ea9fc869972/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\AndroidStudioProjects\\ColetaSeletiva2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\.android\\build-cache\\aadc6e9eb0c9706a325bb9a85c25340eebae0802\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/admin/.android/build-cache/b10e99c4de5ec7586233ef0c2e840ea9fc869972/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\AndroidStudioProjects\\ColetaSeletiva2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\.android\\build-cache\\aadc6e9eb0c9706a325bb9a85c25340eebae0802\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    }
+]

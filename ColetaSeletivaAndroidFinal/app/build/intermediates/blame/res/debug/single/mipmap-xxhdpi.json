@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\AndroidStudioProjects\\ColetaSeletiva2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\AndroidStudioProjects\\ColetaSeletiva2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\AndroidStudioProjects\\ColetaSeletiva2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\AndroidStudioProjects\\ColetaSeletiva2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]

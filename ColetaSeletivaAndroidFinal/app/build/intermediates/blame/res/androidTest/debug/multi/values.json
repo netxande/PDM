@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\AndroidStudioProjects\\ColetaSeletiva2\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/C:\\Users\\rusem\\.android\\build-cache\\7a319cbcf0a63b03ba3b7c11e50684f25669ea17\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/admin/Documents/PDMProjeto/ColetaSeletivaAndroidFinal/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/admin/.android/build-cache/adb0ae4b4bd5de363a29f8ad9a9f35aef633bc4e/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

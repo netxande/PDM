@@ -1,0 +1,7 @@
+#Wed Aug 30 19:17:25 BRT 2017
+base.0=C\:\\Users\\rusem\\AndroidStudioProjects\\ColetaSeletiva2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4f76169df6b326386374977ac5b8f007125e26f5
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\rusem\\AndroidStudioProjects\\ColetaSeletiva2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4e9a6697e731337a3519f5d69b6b0db18fc6df8d\\classes.dex
+base.1=C\:\\Users\\rusem\\AndroidStudioProjects\\ColetaSeletiva2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4e9a6697e731337a3519f5d69b6b0db18fc6df8d
+file.0=C\:\\Users\\rusem\\AndroidStudioProjects\\ColetaSeletiva2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4f76169df6b326386374977ac5b8f007125e26f5\\classes.dex

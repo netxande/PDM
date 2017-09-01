@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\rusem\AndroidStudioProjects\ColetaSeletiva2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\rusem\AndroidStudioProjects\ColetaSeletiva2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4e9a6697e731337a3519f5d69b6b0db18fc6df8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rusem\AndroidStudioProjects\ColetaSeletiva2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b861fa1d880183fd1054d2cd29696f7089300266">
+        <dex dex="C:\Users\rusem\AndroidStudioProjects\ColetaSeletiva2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4f76169df6b326386374977ac5b8f007125e26f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rusem\.android\build-cache\9ff6f6892ae72067233c49894376e597da327284\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\rusem\AndroidStudioProjects\ColetaSeletiva2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9bc73a80ba60cf5cfd087f5751f43bf06b3fc16d\classes.dex" />
+    </item>
+
+</items>
